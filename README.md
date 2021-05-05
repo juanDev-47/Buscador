@@ -7,6 +7,6 @@
 Buscador de autos, con bd interna de ejemplo para ver su funcionamiento (db hecha en formato Json)
 ```
 
-[Buscador](https://wonderful-brattain-7e0a5c.netlify.app/){:target="_blank"}
+[Buscador](https://wonderful-brattain-7e0a5c.netlify.app/?target=_blank)
 
 <a href="https://wonderful-brattain-7e0a5c.netlify.app/" target="_blank">Buscador</a>
