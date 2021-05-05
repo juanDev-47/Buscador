@@ -59,13 +59,30 @@ form {
 }
 
 .sitio-web  {
-    color: white;
+    color: rgb(233, 9, 9);
     display: block;
     font-size: 4rem;
     max-width: 1200px;
     margin: 2rem auto;
     text-decoration: none;
+    text-align: center;
 }
 .sitio-web:hover {
     color: white;
+}
+
+
+.responsiveImage{
+    width: 370px;
+    display: block;
+    margin: auto;
+}
+
+
+
+@media (min-width: 600px) {
+    .responsiveImage .sitio-web{
+        display: block;
+        margin: auto;
+    }
 }
