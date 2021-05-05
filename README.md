@@ -8,3 +8,5 @@ Buscador de autos, con bd interna de ejemplo para ver su funcionamiento (db hech
 ```
 
 [Buscador](https://wonderful-brattain-7e0a5c.netlify.app/)
+
+<a href="https://wonderful-brattain-7e0a5c.netlify.app/" target="_blank">Buscador</a>
